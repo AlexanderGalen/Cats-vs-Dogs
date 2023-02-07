@@ -10,7 +10,7 @@ Copyright(c) 2022 Team Bubble Butt
 
 ## Deployed Application
 
-game.alexandergalen.com
+https://game.alexandergalen.com
 
 ## Technology Used
 * React JS

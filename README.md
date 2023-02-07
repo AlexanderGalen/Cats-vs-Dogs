@@ -10,7 +10,7 @@ Copyright(c) 2022 Team Bubble Butt
 
 ## Deployed Application
 
-https://mysterious-hollows-84029.herokuapp.com/
+game.alexandergalen.com
 
 ## Technology Used
 * React JS
